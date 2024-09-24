@@ -10,6 +10,7 @@ Images left blank/not handled.
 
 Variables:
 #BOTTOKEN - Replace with your discord application token.
+
 #CHANNELID - Replace with the channel you wish to scrape history of. 
 
 OAUTH2 Scope - Requires Message History, View Channels permissions

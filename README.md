@@ -12,5 +12,5 @@ Variables:
 #BOTTOKEN - Replace with your discord application token.
 #CHANNELID - Replace with the channel you wish to scrape history of. 
 
-uATH2 Scope - Requires Message History, View Channels permissions
+OAUTH2 Scope - Requires Message History, View Channels permissions
 Bot Intent - Requires 'Message Content Intent' allowed

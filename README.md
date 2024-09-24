@@ -9,6 +9,7 @@ User - Timestamp - Message Content
 Images left blank/not handled. 
 
 Variables:
+
 #BOTTOKEN - Replace with your discord application token.
 
 #CHANNELID - Replace with the channel you wish to scrape history of. 

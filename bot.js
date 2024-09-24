@@ -5,10 +5,10 @@ const client = new Client({
 });
 
 // Replace 'YOUR_BOT_TOKEN' with the bot token you got from the Discord Developer Portal
-const TOKEN = 'GETYOUROWNTOKENSHEESH!!!'; //Make sure to replace this if you actually use this garbage bot 
+const TOKEN = '#BOTTOKEN'; //Make sure to replace this if you actually use this garbage bot 
 
 // Channel ID of the channel you want to parse
-const CHANNEL_ID = '1049581248600866857';
+const CHANNEL_ID = '#CHANNELID';
 
 // Log when the bot is ready
 client.once('ready', () => {
